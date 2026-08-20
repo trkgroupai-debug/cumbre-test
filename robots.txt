@@ -1,0 +1,5 @@
+# robots.txt — Cumbre Urbana
+User-agent: *
+Allow: /
+
+Sitemap: https://www.cumbreurbana.com/sitemap.xml
